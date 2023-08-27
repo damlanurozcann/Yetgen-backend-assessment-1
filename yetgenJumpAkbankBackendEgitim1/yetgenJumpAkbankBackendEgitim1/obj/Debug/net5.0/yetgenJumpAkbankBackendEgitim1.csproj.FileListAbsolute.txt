@@ -1,0 +1,16 @@
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.exe
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.deps.json
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.runtimeconfig.json
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.runtimeconfig.dev.json
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.dll
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\ref\yetgenJumpAkbankBackendEgitim1.dll
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\bin\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.pdb
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.csproj.AssemblyReference.cache
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.AssemblyInfoInputs.cache
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.AssemblyInfo.cs
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.csproj.CoreCompileInputs.cache
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.dll
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\ref\yetgenJumpAkbankBackendEgitim1.dll
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.pdb
+C:\Users\damla\source\repos\yetgenJumpAkbankBackendEgitim1\yetgenJumpAkbankBackendEgitim1\obj\Debug\net5.0\yetgenJumpAkbankBackendEgitim1.genruntimeconfig.cache
